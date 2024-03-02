@@ -14,3 +14,5 @@ npm install
 npm start
 ```
 
+## Live Preview
+https://draggable-list-fawn.vercel.app/
